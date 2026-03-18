@@ -1,9 +1,12 @@
 streamlit>=1.28
-langchain
+
+langchain>=0.1.0
+langchain-core
+langchain-community
 langchain-ollama
 langchain-chroma
+
 pandas
-openai>=1.2
- trubrics>=1.4.3
+
+trubrics>=1.4.3
 streamlit-feedback
-langchain-community==0.0.3
